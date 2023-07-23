@@ -1,0 +1,15 @@
+{
+    "name": "prototyper",
+    "version": "0.0.1",
+    "description": "Prototyper is a tool for prototyping web games faster",
+    "main": "index.ts",
+    "scripts": {
+        "build": "npx tsc"
+    },
+    "author": "FantaLaTone",
+    "license": "GPL-3.0",
+    "devDependencies": {
+        "@types/node": "^20.4.4",
+        "typescript": "^5.1.6"
+    }
+}
